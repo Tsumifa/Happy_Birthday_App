@@ -33,8 +33,8 @@ class _MyHomePageState extends State<MyHomePage> {
   String path = "assets/transparent.png";
   final _text = "HAPPY BIRTHDAY";
   String textToShow = "";
-  final _text2 = "What is thiiiis ?";
-  String textToShow2 = "What is thiiiis ?";
+  final _text2 = "What is this ?";
+  String textToShow2 = "What is this ?";
   IconData _icon = Icons.favorite;
   IconData iconToShow = Icons.help_center_outlined;
 
